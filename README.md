@@ -12,6 +12,12 @@ BlackBrowser is a small browser that:
 
 and other single Functions 🙂 
 
+**How to Run**
+To run the Browser, you need:
+- Python 3.7 or higher
+- PyQt5 5.6 or higher
+
+
 The whole thing is **still** in the build phase, so everything is relatively unstable.
 
 Screenshot
